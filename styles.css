@@ -1,0 +1,84 @@
+.pictures {
+    border-radius: 5px;
+    border-style: ridge 10px;
+    
+        padding: 20px;
+        border-style: ridge;
+        border-color:crimson;
+        border-width:  8px;
+        margin: 30px;
+        background-color: rgb(1, 1, 11);
+        width: 600px;
+        place-items: center;
+    
+    }
+
+.words{
+    font-family: 'Franklin Gothic Medium' ;
+    color: rgb(249, 251, 252);
+
+   
+    
+
+    
+
+}
+
+.tracking{
+    border-radius: 5px;
+    border-style: ridge 10px;
+    
+        padding: 1px;
+        border-style: ridge;
+        border-color:crimson;
+        border-width:  1px;
+        margin: 1px;
+        
+        
+}
+.header1{
+    
+    border-radius: 3px;
+    border-width: 5px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium';
+    color: aqua;
+}
+.header3{
+    border-radius: 3px;
+    border-width: 5px;
+    text-align: center;
+    
+    font-family: 'Franklin Gothic Medium';
+    color: aqua;
+}
+
+.notebody {
+    background-image: url( https://images3.alphacoders.com/800/80007.jpg);
+   
+    object-fit: contain;
+    
+    
+    padding: 20px;
+    /* border-style: ridge;
+    border-color: crimson; */
+    border-radius: 3px;
+    border-width:  10px;
+    margin: 30px;
+}    
+.subheading{
+    color: aqua;
+}  
+
+    
+
+
+.header2{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    text-decoration: wavy;
+
+
+}
