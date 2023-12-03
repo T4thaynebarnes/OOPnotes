@@ -23,6 +23,9 @@
     
 
 }
+.fbrow{
+    flex-direction: row;
+}
 
 .tracking{
     border-radius: 5px;
@@ -81,4 +84,17 @@
     text-decoration: wavy;
 
 
+}
+.definition{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium';
+    text-align: left;
+    text-decoration: wavy;
+}
+.deftext{
+    font-family: 'Franklin Gothic Medium' ;
+    color: rgb(249, 251, 252);
+
+    text-align: left;
+    
 }
